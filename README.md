@@ -8,6 +8,12 @@
 git clone https://github.com/douglasrosso/agencia-useall-backend.git
 ```
 
+### Para instalar as dependências, é necessário entrar na pasta
+
+```
+cd <aqui coloca o nome da pasta que você criou, sem os símbolos de maior e menor>
+```
+
 ### Instalar as dependências com o npm
 
 ```
