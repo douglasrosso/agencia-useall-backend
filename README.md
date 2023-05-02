@@ -39,3 +39,21 @@ npm run dev
 [nodemon] starting `node ./src/server.js`
 Server is running on Port 3333
 ```
+
+### Após esse passo a passo, é só acessar no navegador essa rota abaixo
+
+```
+https://agencia-useall-react.vercel.app/
+```
+
+### Para logar
+
+```
+email: davi@gmail.com
+senha:1234
+
+ou
+
+email:alvaro@gmail.com
+senha:1234
+```
